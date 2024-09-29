@@ -13,7 +13,7 @@ The dataset includes socio-economic and demographic indicators for approximately
 - Population
 - Literacy rates
 - Healthcare spending
-- Child mortage per capita
+- Child mortgage per capita
 - Exports and imports per capita
 - Income
 - Inflation
